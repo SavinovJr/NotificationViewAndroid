@@ -1,0 +1,2 @@
+rootProject.name='Notification Project'
+include ':app'
